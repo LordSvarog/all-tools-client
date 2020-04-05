@@ -1,0 +1,19 @@
+body {
+  margin: 20px;
+}
+
+#answer-place {
+  margin-top: 20px;
+  border: 4px outset #44944A;
+  border-radius: 5px;
+  max-width: 300px;
+  padding: 5px;
+}
+
+div.form-group label {
+  margin-top: 5px;
+}
+
+form {
+  margin-bottom: 20px;
+}
